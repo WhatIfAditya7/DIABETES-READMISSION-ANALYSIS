@@ -7,6 +7,12 @@ Diabetes is a rapidly growing global health challenge, impacting individuals acr
 # Solution <br>
 We have used advanced machine learning models such as J48, Random Forest, and Multinomial Logistic Regression to uncover patterns and relationships within the data. Additionally, we have used Principle Component Analysis and One Hot Encoding to preprocess the dataset. These methods were selected for their capability to handle complex datasets and generate actionable insights. The findings aim to enhance data-driven decision-making in healthcare, optimize patient management strategies, and reduce readmission rates, ultimately improving diabetes care and hospital efficiency. <br>
 
-#Output <br>
+# Output <br>
 The first visualization implies the gender vs race comparison.<br>
 ![logo](https://github.com/WhatIfAditya7/DIABETES-READMISSION-ANALYSIS/blob/main/Screenshot%202025-01-25%20210409.png) <br>
+
+The next visualization implies the readmission rate vs gender comparison. <br>
+![logo](https://github.com/WhatIfAditya7/DIABETES-READMISSION-ANALYSIS/blob/main/Screenshot%202025-01-25%20210459.png) <br>
+
+The last visualization is the variance of the principle component analysis. <br>
+![logo](https://github.com/WhatIfAditya7/DIABETES-READMISSION-ANALYSIS/blob/main/Screenshot%202025-01-25%20210535.png) <br>
