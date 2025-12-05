@@ -131,6 +131,8 @@ This chart highlights how readmission rates differ between genders, uncovering w
 The final visualization shows the explained variance ratio from Principal Component Analysis (PCA), helping to understand how much information each component captures from the dataset.
 ![logo](https://github.com/WhatIfAditya7/DIABETES-READMISSION-ANALYSIS/blob/main/Screenshot%202025-01-25%20210535.png) <br>
 
+---
+
 ## 🧠 8. Explainability (SHAP Analysis)
 
 Doctors and hospital admins need *reasoning*, not just numbers.
