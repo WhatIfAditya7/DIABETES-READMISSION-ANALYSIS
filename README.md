@@ -113,14 +113,22 @@ Why?
 (Not the perfect model — but a reliable early-warning tool.)
 
 ---
-#📊 7.  Output <br>
-The first visualization implies the Time In Hospital vs Race comparison.<br>
+# 📊 7. Output
+
+### **1️⃣ Time in Hospital vs Race**
+This visualization compares average hospitalization time across different racial groups, helping identify disparities or patterns in length of stay.
 ![logo](https://github.com/WhatIfAditya7/DIABETES-READMISSION-ANALYSIS/blob/main/Screenshot%202025-01-25%20210409.png) <br>
 
-The next visualization implies the Readmission Rate vs Gender comparison. <br>
+---
+
+### **2️⃣ Readmission Rate vs Gender**
+This chart highlights how readmission rates differ between genders, uncovering whether any demographic imbalance exists in return-visit likelihood.
 ![logo](https://github.com/WhatIfAditya7/DIABETES-READMISSION-ANALYSIS/blob/main/Screenshot%202025-01-25%20210459.png) <br>
 
-The last visualization is the Variance of the Principle Component Analysis. <br>
+---
+
+### **3️⃣ PCA Variance Plot**
+The final visualization shows the explained variance ratio from Principal Component Analysis (PCA), helping to understand how much information each component captures from the dataset.
 ![logo](https://github.com/WhatIfAditya7/DIABETES-READMISSION-ANALYSIS/blob/main/Screenshot%202025-01-25%20210535.png) <br>
 
 ## 🧠 8. Explainability (SHAP Analysis)
