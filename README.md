@@ -1,8 +1,10 @@
 # 🩺 Diabetes Readmission Analysis  
 **Using Data + Storytelling to Understand Hospital Readmission Patterns**
 
-Hospital readmissions for diabetic patients are a silent cost driver in healthcare. They drain resources, overwhelm care teams, and signal gaps in long-term patient management.  
-This project dives into a real-world diabetes hospital dataset to understand *why patients return*, what patterns predict higher risk, and how hospitals can intervene earlier.
+Hospital readmissions among diabetic patients are a hidden but significant pressure point in healthcare systems. Every unplanned return visit drains nursing capacity, stresses inpatient units, and exposes hospitals to heavy financial penalties. More importantly, it reveals where continuity of care is breaking down.
+
+This project explores a large, real-world diabetes hospitalization dataset to answer a critical question: why do patients come back, and can we predict it before it happens?
+Through pattern analysis, feature engineering, and predictive modeling, the project uncovers clinical and behavioral risk factors that drive readmissions — and demonstrates how hospitals can use data-driven intelligence to prioritize follow-ups, allocate resources more efficiently, and prevent avoidable readmissions.
 
 ---
 
@@ -16,7 +18,7 @@ Hospitals struggle with:
 - Overloaded staff making reactive, not proactive decisions
 
 ## 🎯 Why This Problem Matters
-- Hospitals struggle with high readmission rates, which lead to:
+Hospitals struggle with high readmission rates, which lead to:
 - Increased operational cost
 - Insurance penalties
 - Poor patient experience
@@ -77,7 +79,7 @@ This ensured a trustworthy dataset for analysis and modeling.
 
 ---
 
-## 🎯 5. Exploratory Findings (The Story the Data Told)
+## 🎯 5. Exploratory Findings 
 
 ### 🔸 **Insight 1 — Chronic conditions drive readmission**  
 Patients with 3+ comorbidities had **2.4x higher** readmission probability.
