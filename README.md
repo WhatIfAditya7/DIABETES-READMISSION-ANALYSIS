@@ -164,13 +164,13 @@ This interpretability bridges the gap between **data science** and **clinical de
 
 ## 🎯 9. Business Impact (If implemented in a hospital)
 
-- **Early detection** of high-risk patients at discharge  
-- Up to **18–25% reduction** in unnecessary readmissions  
-- Better allocation of nursing & outpatient resources  
-- Improved patient follow-up scheduling  
-- Potential savings of **millions in annual penalties**  
-
-This is how data science directly improves healthcare operations.
+- Identify high-risk patients before discharge using data-driven risk scores
+- Reduce avoidable readmissions by an estimated 18–25% through early intervention and targeted monitoring
+- Optimize nursing and outpatient workload by focusing resources on patients with the highest likelihood of return
+- Improve continuity of care with proactive follow-up scheduling and discharge planning
+- Lower financial penalties tied to readmission rates, saving hospitals millions annually in CMS and insurer reimbursement losses
+- Shift decision-making from reactive to predictive, giving clinicians a clearer, evidence-backed view of patient risk
+- This is how data science directly improves healthcare operations.
 
 ---
 
