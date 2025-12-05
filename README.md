@@ -6,14 +6,21 @@ This project dives into a real-world diabetes hospital dataset to understand *wh
 
 ---
 
-## 📘 1. Problem Overview — Why This Matters  
+## 📘 1. Problem Overview  
 Diabetic patients have one of the highest readmission rates in healthcare.  
 Hospitals struggle with:
 
 - Unclear risk patterns  
 - Limited visibility into patient history  
 - High cost of 30-day readmission penalties  
-- Overloaded staff making reactive, not proactive decisions  
+- Overloaded staff making reactive, not proactive decisions
+
+## 🎯 Why This Problem Matters
+- Hospitals struggle with high readmission rates, which lead to:
+- Increased operational cost
+- Insurance penalties
+- Poor patient experience
+- Overloaded staff and resources
 
 **Goal:**  
 Use data to move hospitals from *reactive treatment* → *proactive prevention*.
@@ -131,6 +138,12 @@ This chart highlights how readmission rates differ between genders, uncovering w
 The final visualization shows the explained variance ratio from Principal Component Analysis (PCA), helping to understand how much information each component captures from the dataset.
 ![logo](https://github.com/WhatIfAditya7/DIABETES-READMISSION-ANALYSIS/blob/main/Screenshot%202025-01-25%20210535.png) <br>
 
+## 🔍 Key Insights 
+
+- Certain racial groups had longer average hospital stays, revealing potential inequities worth deeper investigation.
+- Gender-based differences showed varying readmission probabilities, pointing to behavioral and clinical patterns.
+- Medication count and prior admissions emerged as strong indicators of long-term risk.
+- PCA revealed that only a few components explain most variance, meaning patient outcomes often revolve around a small number of dominant factors.
 ---
 
 ## 🧠 8. Explainability (SHAP Analysis)
