@@ -4,7 +4,7 @@
 Hospital readmissions among diabetic patients are a hidden but significant pressure point in healthcare systems. Every unplanned return visit drains nursing capacity, stresses inpatient units, and exposes hospitals to heavy financial penalties. More importantly, it reveals where continuity of care is breaking down.
 
 This project explores a large, real-world diabetes hospitalization dataset to answer a critical question: why do patients come back, and can we predict it before it happens?
-Through pattern analysis, feature engineering, and predictive modeling, the project uncovers clinical and behavioral risk factors that drive readmissions — and demonstrates how hospitals can use data-driven intelligence to prioritize follow-ups, allocate resources more efficiently, and prevent avoidable readmissions.
+Through pattern analysis, feature engineering, and predictive modeling, the project uncovers clinical and behavioral risk factors that drive readmissions, and demonstrates how hospitals can use data-driven intelligence to prioritize follow-ups, allocate resources more efficiently, and prevent avoidable readmissions.
 
 ---
 
